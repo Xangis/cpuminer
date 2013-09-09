@@ -1,3 +1,17 @@
+This is a fork of Pooler's CPUMiner for the purpose of creating a WebOS build
+for the HP TouchPad. It was forked from version 2.3.2.
+
+No code has been changed. Look in the webos-build folder for a precompiled
+binary and information about building for WebOS devices.
+
+And yes, I know running minerd on a TouchPad is dumb.
+
+- Jason / Xangis
+
+(Pooler's original readme follows)
+
+----------------------------------------------------
+
 This is a multi-threaded CPU miner for Litecoin and Bitcoin,
 fork of Jeff Garzik's reference cpuminer.
 
